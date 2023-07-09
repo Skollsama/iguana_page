@@ -1,0 +1,136 @@
+.contenedor {
+    position: relative;
+}
+
+.header {
+    background-color: black;
+    width: 1280px;
+    height: 73px;
+}
+
+.header_negro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.header_texto {
+    color: white;
+    font-size: 3em;
+}
+
+.contenido-negro {
+    background-color: black;
+    width: 1280px;
+    height: 348px;
+    top: 800px;
+    position: absolute;
+}
+
+.imagen_iguana1 {
+    position: absolute;
+    width: 399px;
+    height: 237px;
+    top: 45px;
+    left: 731px;
+
+}
+
+.contenido_imagen {
+    position: relative;
+}
+
+.contenido_texto {
+    position: relative;
+    width: 475px;
+    height: 197px;
+    left: 150px;
+    top: 76px;
+}
+
+.texto {
+    position: absolute;
+    color: white;
+}
+
+.caracteristicas-contenido {
+    background-color: #1E1A13;
+    width: 1280px;
+    height: 348px;
+    position: absolute;
+    top: 1141px;
+}
+
+.cara_texto {
+    color: white;
+    font-size: 3em;
+}
+
+.caracteristica_texto {
+    text-align: center;
+}
+
+.iconos {
+    display: flex;
+    color: white;
+    gap: 40px;
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+}
+
+.ojo {
+    font-size: 35px;
+}
+
+.mano {
+    font-size: 35px;
+}
+
+.pincel {
+    font-size: 35px;
+}
+
+.imagenes--iguanas {
+    background-color: black;
+    width: 1280px;
+    height: 348px;
+    top: 1448px;
+    position: absolute;
+}
+
+.imagenes_iguanas {
+    position: relative;
+    top: 75px;
+}
+
+.iguana2 {
+    width: 316px;
+    height: 202px;
+}
+
+.iguana3 {
+    width: 316px;
+    height: 202px;
+}
+
+.iguana4 {
+    width: 316px;
+    height: 202px;
+}
+
+.footer {
+    background-color: #1E1A13;
+    color: white;
+    padding: 20px;
+    position: absolute;
+    top: 1796px;
+    width: 1240px;
+    height: 100px;
+}
+
+.texto_foot {
+    text-align: center;
+    font-size: 2em;
+}
